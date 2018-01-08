@@ -1,0 +1,38 @@
+Guide/Milestones: (2018/01/08)
+=================
+Official PL Site: https://www.premierleague.com/
+Pull current list of 20 PL Clubs:
+Source(s): https://www.premierleague.com/clubs
+
+Initial:
+========
+Assume 7-day week, Sun - Sat
+Randomly generate 38 pair-fixture dates from ~August 1 to ~May 15 (Use current year for season 2018-2019)
+Must be separated by at least 3-4 days break inbetween each individual club games
+
+Mid-term:
+=========
+Add Home/Away fixtures
+Group club games into 3/4-day week "events" before next cycle (e.g. all clubs play sometime from Fri - Mon, then rest period before next set to play for Thu - Sun, etc.)
+Account for Regional Cup Competitions (FA & Carabao Cups PL Only)
+Account for EU/UK Holidays
+Account for European fixtures/International breaks IN SEASON (Not limiting season scope)
+
+Long-term:
+==========
+Set to dynamic/realistic dates in season
+Account for TV/Major club games (Derbies, Rivalries, Season Deciders, Winners/Relegations)
+Account for club conflicts (Locations, Requests, 
+Account for lower-league divisions (down to League 2)
+Account for Regional Cup Competitions (All Leagues)
+Account for International fixtures OUT OF SEASON (Can limit season begin/end scope)
+**Account for any rules listed from guides (see below)
+
+Guides:
+=======
+How are premier league fixtures scheduled?
+http://lmgtfy.com/?q=how+are+premier+league+fixtures+scheduled
+https://www.premierleague.com/news/261976
+https://www.premierleague.com/news/419020
+https://www.premierleague.com/news/419044
+https://www.theguardian.com/football/2013/jun/15/fixtures-premier-league-football-league-compiled
