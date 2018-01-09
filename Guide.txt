@@ -8,6 +8,7 @@ Initial:
 ========
 Assume 7-day week, Sun - Sat
 Randomly generate 38 pair-fixture dates from ~August 1 to ~May 15 (Use current year for season 2018-2019)
+Split games (19 pre-year turn, 19 post)
 Must be separated by at least 3-4 days break inbetween each individual club games
 
 Mid-term:
@@ -31,7 +32,6 @@ Account for International fixtures OUT OF SEASON (Can limit season begin/end sco
 Guides:
 =======
 How are premier league fixtures scheduled?
-http://lmgtfy.com/?q=how+are+premier+league+fixtures+scheduled
 https://www.premierleague.com/news/261976
 https://www.premierleague.com/news/419020
 https://www.premierleague.com/news/419044
