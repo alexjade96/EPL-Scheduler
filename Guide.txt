@@ -29,6 +29,10 @@ Account for Regional Cup Competitions (All Leagues)
 Account for International fixtures OUT OF SEASON (Can limit season begin/end scope)
 **Account for any rules listed from guides (see below)
 
+Expansion:
+==========
+Adapt to/for/with other leagues/FIFA
+
 Guides:
 =======
 How are premier league fixtures scheduled?
